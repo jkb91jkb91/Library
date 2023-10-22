@@ -9,10 +9,9 @@ https://github.com/jkb91jkb91/dCompose_haProxy/blob/master/README.md
 https://github.com/jkb91jkb91/full_project_v > ONGOING  
 
 3.) Simple connection between MySQL and PHP using docker-compose  
-https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >> MAKE CORRECTION
+https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >> MAKE CORRECTION  
 
-
-
+4.) Arch Linux server step by step description  
 
 
 
