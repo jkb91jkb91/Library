@@ -8,10 +8,12 @@ https://github.com/jkb91jkb91/dCompose_haProxy/blob/master/README.md
 2.) Jenkins CI for JAVA APP (sonarqube,jenkins,nexus)  
 https://github.com/jkb91jkb91/full_project_v > ONGOING  
 
-3.) Simple connection between MySQL and PHP using docker-compose  
+3.) Apache with PHP and mysql connecting in docker network using docker-compose
 https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >> MAKE CORRECTION  
 
-4.) Arch Linux server step by step description  
+4.) Apache webserver and 2 clients on VMs(just steps with description)  
+
+5.) Arch Linux server step by step description  
 
 
 
