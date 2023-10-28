@@ -14,7 +14,7 @@ https://github.com/jkb91jkb91/full_project_v > ONGOING
 https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >> MAKE CORRECTION  
 
 
-TO DO
+TO DO  
 AWS  
 4.) AWS Cloud Lift and Shift Project    
   
