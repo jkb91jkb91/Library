@@ -15,10 +15,10 @@ https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >
 
 
 TO DO
-AWS
+AWS  
 4.) AWS Cloud Lift and Shift Project    
-
-AWS
+  
+AWS  
 5.) AWS Rearchitecture App Project from point 4 
 
 
