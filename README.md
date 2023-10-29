@@ -7,7 +7,7 @@
 **SAME JAVA APP WITH DIFFERENT PROJECTS**  
   
 AWS     
-**1.) AWS Cloud Lift and Shift Project**
+**1.) AWS Cloud Lift and Shift Project**  
 https://github.com/jkb91jkb91/full_project_v/tree/aws_project1    
   
 AWS  
