@@ -19,7 +19,7 @@ SIMPLER PROJECTS
 AWS  
 1.) HaProxy(Roundrobin + subdomain) + 3x EC2 with Apache on AWS + AWS Cloudformation + GoDaddy domain  
 Testing Load Balancer,webserver and DNS records  
-https://github.com/jkb91jkb91/dCompose_haProxy/blob/master/README.md  
+[https://github.com/jkb91jkb91/dCompose_haProxy/blob/master/README.md  ](https://github.com/jkb91jkb91/haproxy_apache_aws)  
 
 2.)Container(Apache) with Container(PHP) and mysql connecting in docker network using docker-compose  
 https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >> MAKE CORRECTION  
