@@ -19,9 +19,8 @@ https://github.com/jkb91jkb91/react_app_redis_postgres_docker_compose/tree/produ
 Testing Load Balancer,webserver and DNS records  
 [https://github.com/jkb91jkb91/dCompose_haProxy/blob/master/README.md  ](https://github.com/jkb91jkb91/haproxy_apache_aws)  
 
-**6.) Container(Apache) with Container(PHP) and mysql connecting in docker network using docker-compose**  
-[https://github.com/jkb91jkb91/my_tutorials/blob/php_mysql/php_mysql/index.php  >> MAKE CORRECTION  ](https://github.com/jkb91jkb91/my_tutorials/tree/php_mysql/php_mysql_dockerfiles)  
-+ NEXT STEP >> minikube + Kubernetes  
+**6.) Ingress, Apache + MySQL**  
+https://github.com/jkb91jkb91/my_tutorials/tree/kubernetes_ingress/php_mysql_dockerfiles/k8s  
 
 
 
