@@ -12,8 +12,8 @@ https://github.com/jkb91jkb91/AWS_EKS_simple_deployment
 **3.) Jenkins CI for JAVA APP (sonarqube,jenkins,nexus)**  
 https://github.com/jkb91jkb91/full_project_v > ONGOING  
 
-**4.) Kubernetes deployments locally  REACT+Postgresql+Redis**  
-https://github.com/jkb91jkb91/k8s_docker
+**4.) Docker-COmpose REACT+Postgresql+Redis**  
+https://github.com/jkb91jkb91/react_app_redis_postgres_docker_compose/tree/production_env  
 
 **5.) HaProxy(Roundrobin + subdomain) + 3x EC2 with Apache on AWS + AWS Cloudformation + GoDaddy domain**    
 Testing Load Balancer,webserver and DNS records  
