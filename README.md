@@ -4,9 +4,10 @@
 
   
 **1.) AWS Cloud Lift and Shift Project**  
-https://github.com/jkb91jkb91/full_project_v/tree/aws_project1    
+https://github.com/jkb91jkb91/full_project_v/tree/aws_project1   > ONGOING  
   
-**2.) AWS EKS very simple deployment** 
+**2.) AWS EKS very simple deployment**  
+https://github.com/jkb91jkb91/AWS_EKS_simple_deployment
   
 **3.) Jenkins CI for JAVA APP (sonarqube,jenkins,nexus)**  
 https://github.com/jkb91jkb91/full_project_v > ONGOING  
