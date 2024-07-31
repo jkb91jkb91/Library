@@ -3,8 +3,8 @@
 <b>DEVOPS</b>
 
   
-**1.) Terraform+Ansible+Jenkins+AWS+Kubeadm_Kubernetes**  
-
+**1.) Terraform+Ansible+Jenkins+AWS+Kubeadm_Kubernetes**
+      
 **2.) Creation of microservices from monolith: Angular(frontend) + Django(backend) + PostgreSQL + Memcached + RabbitMQ + Docker Compose** 
 
 **3.) Different styles for FLUX repository** 
