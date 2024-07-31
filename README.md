@@ -3,7 +3,7 @@
 <b>DEVOPS</b>
 
   
-**1.) Terraform+Ansible+Jenkins+AWS+Kubeadm_Kubernetes**
+**1.) Terraform+Ansible+Jenkins+AWS+Kubeadm_Kubernetes**  
 https://github.com/jkb91jkb91/JenkinsCreator
       
 **2.) Creation of microservices from monolith: Angular(frontend) + Django(backend) + PostgreSQL + Memcached + RabbitMQ + Docker Compose** 
