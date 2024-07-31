@@ -11,6 +11,7 @@ https://github.com/jkb91jkb91/Jenkins_KubeStarter
 **3.) Creation of microservices from monolith: Angular(frontend) + Django(backend) + PostgreSQL + Memcached + RabbitMQ + Docker Compose** 
 
 **4.) Helm files based on microservices app from point 3** 
+https://github.com/jkb91jkb91/KubeServices/tree/master/Kubernetes_Yamls  
 
 **5.) Different styles for FLUX repository**  
 https://github.com/jkb91jkb91/flux_repo_monorepo
