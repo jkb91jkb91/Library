@@ -8,7 +8,8 @@ https://github.com/jkb91jkb91/JenkinsCreator
 **2.) Terraform+Ansible for AWS EC2 >>> Kubeadm Kubernetes Cluster Master + Worker FULL WORKING**  
 https://github.com/jkb91jkb91/Jenkins_KubeStarter
       
-**3.) Creation of microservices from monolith: Angular(frontend) + Django(backend) + PostgreSQL + Memcached + RabbitMQ + Docker Compose** 
+**3.) Creation of microservices from monolith: Angular(frontend) + Django(backend) + PostgreSQL + Memcached + RabbitMQ + Docker Compose**  
+
 
 **4.) Helm files based on microservices app from point 3**  
 https://github.com/jkb91jkb91/KubeServices/tree/master/Kubernetes_Yamls  
